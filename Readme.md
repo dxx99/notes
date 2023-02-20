@@ -2,7 +2,7 @@
 ## 01自我介绍
 ## 02薪资
 ## 03mysql
-![](./static/images/mysql.png)
+![](https://github.com/dxx99/notes/blob/main/static/images/mysql.png)
 ## 04redis
 ![](./static/images/redis.png)
 ## 05网络
