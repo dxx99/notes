@@ -1,10 +1,9 @@
 # 知识体系
+![](./static/images/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.png)
 ## 01自我介绍
 ## 02薪资
 ## 03mysql
-![](https://github.com/dxx99/notes/blob/main/static/images/mysql.png)
 ## 04redis
-![](./static/images/redis.png)
 ## 05网络
 ## 06算法
 ## 07nginx
